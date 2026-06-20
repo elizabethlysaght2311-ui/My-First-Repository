@@ -4,6 +4,6 @@ Welcome!
 This repository contains one of my warer color pet portraits.
 I created this repository as my first step in learning GitHub and version control.
 ## About Me
-I enjoy watercolor painting, lifelong learning, anbd cybersecurity.
+I enjoy watercolor painting, lifelong learning, and cybersecurity.
 ## Painting
-![Cat Portrait](cat-painting.jpg)
+![Cat Portrait](watercolor-ragdoll-cat.jpg)
