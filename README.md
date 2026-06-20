@@ -7,4 +7,4 @@ I created this repository as my first step in learning GitHub and version contro
 ## About Me
 I enjoy watercolor painting, lifelong learning, and cybersecurity.
 ## Painting
-![Cat Portrait](watercolor-ragdoll-cat.jpg)
+![Cat Portrait](watercolor-ragdoll-catWsigsm.jpg)
