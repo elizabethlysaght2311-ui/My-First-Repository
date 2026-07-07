@@ -1,7 +1,6 @@
 # My-First-Repository
-My first GitHub repository, featuring a watercolor pet portrait.
-I created this repository as my first step in learning GitHub and version control.
+This repository as my first step in learning GitHub and version control.
 ## About Me
-I enjoy watercolor painting, lifelong learning, and cybersecurity.
+I enjoy cybersecurity, lifelong learning, and painting pet portraits.
 ## Painting
 ![Cat Portrait](watercolor-ragdoll-catWsigsm.jpg)
